@@ -1,0 +1,10 @@
+F:\xmlTree\xmlTree\xmlTree\obj\Debug\xmlTree.csprojAssemblyReference.cache
+F:\xmlTree\xmlTree\xmlTree\obj\Debug\xmlTree.Form1.resources
+F:\xmlTree\xmlTree\xmlTree\obj\Debug\xmlTree.Properties.Resources.resources
+F:\xmlTree\xmlTree\xmlTree\obj\Debug\xmlTree.csproj.GenerateResource.cache
+F:\xmlTree\xmlTree\xmlTree\obj\Debug\xmlTree.csproj.CoreCompileInputs.cache
+F:\xmlTree\xmlTree\xmlTree\bin\Debug\xmlTree.exe.config
+F:\xmlTree\xmlTree\xmlTree\bin\Debug\xmlTree.exe
+F:\xmlTree\xmlTree\xmlTree\bin\Debug\xmlTree.pdb
+F:\xmlTree\xmlTree\xmlTree\obj\Debug\xmlTree.exe
+F:\xmlTree\xmlTree\xmlTree\obj\Debug\xmlTree.pdb
